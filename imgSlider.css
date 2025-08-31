@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.slideshow {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    gap: 20px;
+}
+
+.slideshow #img {
+    height: 700px;
+    width: 700px;
+    object-fit: cover;
+}
