@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(142, 187, 187);
+    text-align: center;
+    padding-top: 250px;
+}
+#inc,#dec,#value{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 40px;
+}
+#value{
+    padding: 50px 20px;
+}
+#inc,#dec{
+    background-color: rgb(5, 244, 244);
+    color: black;
+}
