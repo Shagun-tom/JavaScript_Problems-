@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/20/d7/18/20d7186dadd7cf1da26c41c267ed5dc3.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+button{
+    box-shadow: 20px;
+    height: 30px;
+    text-align: center;
+    background-color: skyblue;
+    justify-items: center;
+    color: black;
+    margin: 10px;
+    flex-direction: row;
+}
+ol{
+   font-size: xx-large;    
+   text-align: 40px;
+}
