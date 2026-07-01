@@ -1,0 +1,9 @@
+button{
+    height: 100px;
+    width: 100px;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}

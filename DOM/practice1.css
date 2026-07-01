@@ -1,0 +1,20 @@
+p{
+    background-color: blue;
+    color: pink;
+    padding: 56px;
+    text-decoration:blue;
+}
+
+.head{
+    background-color: rgb(171, 76, 76);
+    color: rgb(242, 239, 245);
+    padding: 56px;
+}
+
+#memories{
+    background-color: green;
+}
+
+#task{
+    background-color: yellow;
+}
