@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(243, 218, 218);
+}
+div{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+}
+
+p{
+    font-size: xx-large;
+}
